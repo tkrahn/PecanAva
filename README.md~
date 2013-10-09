@@ -1,0 +1,4 @@
+Very experimental RTTY code for PecanPico4 hardware (that can be used instead of the APRS version)
+This code is heavily borrowed from James Coxon (with modifications from Anthony Stirk)
+
+In this version of the software the FSK is generated digitally and must be transferred from the ATMega to the Si4464 GPIO pin.
